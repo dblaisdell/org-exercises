@@ -1,0 +1,17 @@
+* Org Exercises
+The intention of this project is simple: capture different exercises.
+There are already projects that track instances of workouts. 
+I wanted more resource oriented explanations of what kind of exercises are available for different parts of the body.
+
+** Goals
+- Capture Exercises
+  - Organize by Body Part
+- Describe equipment
+  - Required
+  - Suggested
+  - None
+
+** Future Ideas
+- Static Photos
+- Short Youtube Videos
+
