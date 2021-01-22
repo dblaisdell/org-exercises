@@ -14,4 +14,5 @@ I wanted more resource oriented explanations of what kind of exercises are avail
 ** Future Ideas
 - Static Photos
 - Short Youtube Videos
-
+- Capture targetted routines
+- Suggest a weekly schedule
